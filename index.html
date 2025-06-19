@@ -12,26 +12,17 @@
     <link rel="stylesheet" href="src/css/tablet-style.css" />
   </head>
   <body id="page-top">
-    <header class="header">
-      <div class="header__container">
-        <nav class="nav">
-          <ul class="nav__links">
-            <li><a href="#page-top">home</a></li>
-            <li class="separation"><a href="#lots">lots</a></li>
-            <li><a href="#about">about</a></li>
-          </ul>
-        </nav>
-        <section class="header__logo">
-          <h1>YOU</h1>
-          <h1 class="line-1">NEED</h1>
-          <h1 class="line-2">IT</h1>
-        </section>
-        <div aria-hidden="true" class="header--right-side">
-        </div>
-      </div>
-    </header>
-    <main>
-      <section id="home">
+
+  <header class="header">
+    <ul class="logo">
+      <li>YOU</li>
+      <li>NEED</li>
+      <li>IT</li>
+    </ul>
+  </header>
+
+  <main>
+    <section id="home">
       <article class="home__title">
         <h1 class="home__title--start">YOU</h1>
         <h1 class="home__title--middle">NEED</h1>
@@ -46,26 +37,26 @@
     </section>
     <section id="lots">
       <h2 class="lots__header">lots</h2>
-      <section class="lots__grid">
+      <section class="lots__grid"></section>
+      <p id="show-more-btn">more</p>
     </section>
-    <p id="show-more-btn">more</p>
-    </section>
-      <section id="about">
-        <section class="about__logo">
-          <h1>YOU</h1>
-          <h1>NEED</h1>
-          <h1>IT</h1>
-        </section>
-        <aside>
-          <h2 class="about__header">About This Auction:</h2>
-          <article class="about__text">
-          </article>
-        </aside>
+    <section id="about">
+      <section class="about__logo">
+        <h1>YOU</h1>
+        <h1>NEED</h1>
+        <h1>IT</h1>
       </section>
-    </main>
-    <script src="index.js"></script>
-    <script src="src/js/about.js"></script>
-    <script src="src/js/lots.js"></script>
-    <script src="src/js/scroll.js"></script>
+      <aside>
+        <h2 class="about__header">About This Auction:</h2>
+        <article class="about__text">
+        </article>
+      </aside>
+    </section>
+  </main>
+
+  <script src="index.js"></script>
+  <script src="src/js/about.js"></script>
+  <script src="src/js/lots.js"></script>
+  <script src="src/js/scroll.js"></script>
   </body>
 </html>
