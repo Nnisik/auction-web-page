@@ -15,10 +15,7 @@ A single, elegant web page designed for an online auction platform, built using 
 - [Known Issues](#known-issues)
 
 ## Features
-- Clean and responsive design
-- User-friendly layout
-- Attractive auction item display
-- Simple navigation
+- 
 
 ## Technologies Used
 - HTML
