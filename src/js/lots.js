@@ -1,3 +1,5 @@
+// FIXME: add React, referance with a link is also good option
+
 // Creating lot image
 function createLotImage(image) {
     const lotImage = document.createElement("img");
