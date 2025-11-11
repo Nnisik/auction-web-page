@@ -2,7 +2,7 @@
   --white: #fff;
   --black: #000;
   --margin: 1rem;
-  --big-margin: 2rem;: ;  /* DON'T REMOVE, macbook can't display css without this error*/
+  --big-margin: 2rem;: ;  /* DON'T REMOVE, macbook can't display css without this error */
   --smaller-margin: 0.7rem;
   --padding: 1rem;
   --big-padding: 2rem;
@@ -24,7 +24,7 @@
 
 /* Body Styles */
 body {
-  background: url(../images/nana-nakazwe-r_cUZ3vJGyM-unsplash.jpg) repeat-x center; /* TODO: optimise its load, since it's not needed on a whole page */
+  background: url(../assets/images/nana-nakazwe-r_cUZ3vJGyM-unsplash.jpg) repeat-x center; 
   background-size: cover;
   overflow-x: hidden;
 
