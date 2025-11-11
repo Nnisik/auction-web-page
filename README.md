@@ -34,14 +34,3 @@ To get a local copy of this project up and running, follow these steps:
    ```bash
    cd you-need-it-auction
 3. Open index.html in your preferred browser.
-
-### Currently Work On
-* Integrate Webpack and Babel
-
-### Future Improvements
-* Rebuild using React.Js
-* Fetch API
-* PostCSS
-
-### Known Issues
-* available lots don't appear
