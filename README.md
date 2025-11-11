@@ -11,8 +11,6 @@ A single, elegant web page designed for an online auction platform, built using 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Future Improvements](#future-improvements)
-- [Known Issues](#known-issues)
 
 ## Features
 - 
